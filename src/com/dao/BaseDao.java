@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 
 public class BaseDao {
 	/**
-	 * �������ݿ�
+	 * Á´½ÓÊý¾Ý¿â草拟吗姚明杰
 	 */
 	private static Connection conn = null;
 	//private BaseDao() { }
